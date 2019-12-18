@@ -1,0 +1,27 @@
+#define "include.h"
+
+void remote(void)
+{
+   static unsigned int num = 0;
+   while(1)
+   {
+   if(num<500)nun++;
+   else num = 0;
+   }
+
+}
+
+
+void main(void)
+{
+  unsigned int mian_data = 0;
+  unsigned char Test_git = 0;
+  while(1)
+  {
+  printf("go to Test git = %d\n",Test_git)
+  if(Test_git<255)Test_git++;
+  else Test_git = 0;
+  }
+
+}
+
