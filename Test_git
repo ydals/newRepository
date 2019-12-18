@@ -33,5 +33,5 @@ void newFunc(void)
 
 void fule(void)
 {
-	printf("wozhenshifule\n");
+	printf("bufubufu\n");
 }
