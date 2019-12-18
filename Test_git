@@ -39,4 +39,5 @@ void feichuanlaile(void)
 void shafeichuana(void)
 {
 	printf("this is shawanyi\n");
+	printf("shafeichuan-beishan");
 }
