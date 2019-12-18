@@ -30,3 +30,13 @@ void newFunc(void)
 	printf("new branch \n");
 }
 
+
+void feichuanlaile(void)
+{
+	printf("this is feichuan\n");
+}
+
+void shafeichuana(void)
+{
+	printf("this is shawanyi\n");
+}
