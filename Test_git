@@ -31,8 +31,7 @@ void newFunc(void)
 }
 
 
-void feichuanlaile(void)
+void fule(void)
 {
-	printf("this is feichuan\n");
-	printf("shan chu feichuan");
+	printf("wozhenshifule\n");
 }
