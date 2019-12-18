@@ -25,3 +25,8 @@ void main(void)
 
 }
 
+void newFunc(void)
+{
+	printf("new branch \n");
+}
+
