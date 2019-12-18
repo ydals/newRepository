@@ -1,0 +1,9 @@
+void dec(void)
+{
+	printf("dec comin home\n");
+}
+
+void func1(void)
+{
+	printf("change this");
+}
